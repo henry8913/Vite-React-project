@@ -3,7 +3,7 @@
 
 Un elegante sito web per un ristorante italiano tradizionale, sviluppato con moderne tecnologie web per offrire un'esperienza utente fluida e accattivante.
 
-![Trattoria Bella Italia](./src/assets/images/cover.gif)
+![Trattoria Bella Italia](./src/assets/images/cover_a.gif)
 
 ## 📋 Descrizione
 
